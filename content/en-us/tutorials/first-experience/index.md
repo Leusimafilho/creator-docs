@@ -5,7 +5,7 @@ description: Explains the process of creating a platformer experience to introdu
 
 This tutorial explains the basics of [Roblox Studio](../../studio/setting-up-roblox-studio.md) by building, playtesting, and publishing a simple platformer experience. Follow each section and learn how to:
 
-- Create the foundation of your platformer using one of Studio's bundled templates.
+- Create the foundation of your platformer using one of Studio's bundlyed templates.
 - Navigate around the 3D viewport to see the environment from every angle.
 - Create platforms for players to traverse using Studio's primary building blocks.
 - Playtest and troubleshoot your experience.
